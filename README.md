@@ -22,4 +22,5 @@ Languages: SQL, Python | Analytics: Power BI, Tableau, Advanced Excel
 ERP: SAP Ariba, Salesforce | Project Management: Asana, EDI, ADP
 
 🎓 BA in Information Technology | Rutgers University
+
 📜 Certifications: Business Intelligence Analytics (TripleTen Bootcamp) & CAPM (in progress)
