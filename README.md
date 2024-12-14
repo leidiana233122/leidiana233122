@@ -4,36 +4,22 @@
 
 💡 Expert in Data-Driven Insights, Strategic Problem-Solving, and Process Optimization
 
-I’m Leidiana, a results-driven Business Analyst with a proven track record in strategic sourcing, supplier performance management, and business transformation projects. Leveraging tools like Power BI, Tableau, and SQL, I excel in analyzing complex data to deliver actionable insights and measurable outcomes.
+I’m Leidiana, a results-oriented Business Analyst specializing in strategic sourcing, supplier management, and business transformation. Skilled in leveraging Power BI, Tableau, and SQL to turn complex data into actionable insights and measurable outcomes.
 
-What I Bring:
+Key Strengths:
 
 🎯 Expertise in SAP Ariba and data-driven procurement workflows.
 
-📊 Dashboard Developer using Power BI and Tableau for impactful reporting.
+📊 Proficient in Power BI and Tableau for impactful dashboards and reporting.
 
-🌍 Multilingual Communicator: Fluent in English, Spanish, and Brazilian Portuguese—skilled in global collaboration.
+🌍 Multilingual: Fluent in English, Spanish, and Brazilian Portuguese for seamless collaboration.
 
-🏆 Proven ability to streamline workflows, optimize processes, and achieve cost efficiencies.
-
-What Excites Me:
-
-I’m passionate about leveraging technology and data analytics to tackle complex business challenges, enhance decision-making processes, and drive operational excellence. I thrive in collaborative environments where innovation meets strategy.
+🏆 Proven ability to streamline workflows, optimize processes, and drive cost efficiencies.
 
 Tech Stack:
 
-Languages: SQL, Python
-
-Analytics: Power BI, Tableau, Advanced Excel
-
-ERP & Tools: SAP Ariba, Salesforce, Microsoft Dynamics GP, Zycus
-
-Project Management: Asana, ADP, EDI
-
-Education & Certifications:
+Languages: SQL, Python | Analytics: Power BI, Tableau, Advanced Excel
+ERP: SAP Ariba, Salesforce | Project Management: Asana, EDI, ADP
 
 🎓 BA in Information Technology | Rutgers University
-
-📜 Certifications: Business Intelligence Analytics (TripleTen Bootcamp) and CAPM (in progress)
-
-
+📜 Certifications: Business Intelligence Analytics (TripleTen Bootcamp) & CAPM (in progress)
