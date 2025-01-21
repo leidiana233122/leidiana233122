@@ -4,7 +4,7 @@
 
 💡 Expert in Data-Driven Insights, Strategic Problem-Solving, and Process Optimization
 
-I’m Leidiana, a results-oriented Business Analyst specializing in strategic sourcing, supplier management, and business transformation. Skilled in leveraging Power BI, Tableau, and SQL to turn complex data into actionable insights and measurable outcomes.
+I’m Diana, a results-oriented Business Analyst specializing in strategic sourcing, supplier management, and business transformation. Skilled in leveraging Power BI, Tableau, and SQL to turn complex data into actionable insights and measurable outcomes.
 
 Key Strengths:
 
