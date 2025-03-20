@@ -18,6 +18,11 @@ Key Strengths:
 
 🏆 Proven ability to streamline workflows, optimize processes, and drive cost efficiencies.
 
+### **🔗 Featured Work**
+- 📂 **SQL Project:** [View on GitHub](https://github.com/leidiana233122/YOUR_SQL_PROJECT_REPO)
+- 📊 **Tableau Dashboards:** [View on Tableau Public](https://public.tableau.com/app/profile/YOUR_USERNAME)
+- 📈 **Power BI Dashboard:** [View Report](https://app.powerbi.com/YOUR_REPORT_LINK)
+
 Tech Stack:
 
 Languages: SQL, Python | Analytics: Power BI, Tableau, Advanced Excel
