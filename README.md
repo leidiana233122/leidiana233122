@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**leidiana233122/leidiana233122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Multilingual Business Analyst | 🌐 South River, NJ
 
-Here are some ideas to get you started:
+💡 Expert in Data-Driven Insights, Strategic Problem-Solving, and Process Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🔗 View My Portfolio](https://leidiana233122.github.io) 
+
+I’m Diana, a results-oriented Business Analyst specializing in strategic sourcing, supplier management, and business transformation. Skilled in leveraging Power BI, Tableau, and SQL to turn complex data into actionable insights and measurable outcomes.
+
+Key Strengths:
+
+🎯 Expertise in SAP Ariba and data-driven procurement workflows.
+
+📊 Proficient in Power BI and Tableau for impactful dashboards and reporting.
+
+🌍 Multilingual: Fluent in English, Spanish, and Brazilian Portuguese for seamless collaboration.
+
+🏆 Proven ability to streamline workflows, optimize processes, and drive cost efficiencies.
+
+Tech Stack:
+
+Languages: SQL, Python | Analytics: Power BI, Tableau, Advanced Excel
+ERP: SAP Ariba, Salesforce | Project Management: Asana, EDI, ADP
+
+🎓 BA in Information Technology | Rutgers University
+
+📜 Certifications: Business Intelligence Analytics (TripleTen Bootcamp) & CAPM (in progress)
