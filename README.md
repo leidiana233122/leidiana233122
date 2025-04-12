@@ -21,7 +21,6 @@ Key Strengths:
 ### **🔗 Featured Work**
 - 📂 **SQL Project:** [View on GitHub](https://github.com/leidiana233122/YOUR_SQL_PROJECT_REPO)
 - 📊 **Tableau Dashboards:** [View on Tableau Public](https://public.tableau.com/app/profile/leidiana.montano3657/vizzes)
-- 📈 **Power BI Dashboard:** [View Report](https://app.powerbi.com/YOUR_REPORT_LINK)
 
 Tech Stack:
 
