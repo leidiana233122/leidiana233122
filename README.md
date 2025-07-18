@@ -2,7 +2,7 @@
 
 🎯 **Procurement & Project‑Management Data Analyst**  
 💻 Python • SQL • Power BI | SAP Ariba workflows & KPI dashboards  
-🌍 South River, NJ | Multilingual (English · Spanish · Portuguese)
+🌍 Multilingual (English · Spanish · Portuguese)
 
 [🔗 View my portfolio](https://leidiana233122.github.io)
 
